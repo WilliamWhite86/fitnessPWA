@@ -4,6 +4,12 @@
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
     "start_url": "/stats",
-    "display": "standalone"
+    "display": "standalone",
+    "icons": [{
+      "src": "assets/arnold.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    }]
+    
   }
   
