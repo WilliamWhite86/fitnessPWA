@@ -4,7 +4,7 @@ const mongoose = require("mongoose");
 const routes = require('./routes');
 const compression = require('compression');
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3002;
 
 const app = express();
 const databaseName = 'workout_db';
